@@ -1,3 +1,9 @@
+# exemple_site_spip
+
+Ce site est un site d'exemple pour l'utilisation de spip. La version de spip utilisée ici est la version 4.2.12.
+
+---
+
 # SPIP
 
 [SPIP](https://www.spip.net/) (Système de Publication pour Internet) est un logiciel libre permettant de créer des sites internets,
