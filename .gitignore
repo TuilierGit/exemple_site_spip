@@ -1,0 +1,42 @@
+# composer & outils
+/vendor/
+/composer.phar
+/composer.local.*
+/phpunit.xml
+/phpcs.xml
+/phpstan.neon
+/docker-compose.override.yml
+/docker-compose.yml
+/.phpunit.cache
+
+# SPIP
+/IMG/
+!/IMG/remove.txt
+/config/
+!/config/remove.txt
+/local/
+!/local/CACHEDIR.TAG
+!/local/remove.txt
+/plugins-dist/
+/squelettes-dist/
+/tmp/
+!/tmp/CACHEDIR.TAG
+!/tmp/remove.txt
+/prive/
+
+# Contrib ou personalisation
+/.htaccess
+/lib/
+/mutualisation/
+/plugins/
+/sites/
+/squelettes/
+/themes/
+
+# IDE
+**/.DS_Store
+/.buildpath
+/.project
+/.settings
+/.idea/
+/.vscode/*
